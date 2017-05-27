@@ -38,3 +38,7 @@ Changelog:
 ==========
 2016-09-13 - Jack Mudge <Jakykong@theanythingbox.com>
     * Initial commit and upload to Github.
+
+2017-05-27 - YaoPo Wang <blue119@gmail.com>
+    * include joanrivera/vim-zimwiki-syntax
+
